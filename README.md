@@ -42,4 +42,14 @@ _this is italic_
 **links**
 
 [the visible and clickable name to go to google](https://google.com)
- 
+
+**Table**
+
+| table heading | table heading | table heading |
+| ------------- | ------------- | ------------- |
+| table data    | data          | data          |
+| table data    | data          | data          |
+| table data    | data          | data          |
+
+
+``` here comes the code ```
